@@ -36,3 +36,12 @@ Version 1.2.0
 - Included examples of different configuration options and their usage.
 - Provided a "Troubleshooting" section to help users resolve common issues.
 - Included common errors and their solutions.
+
+Version 1.3.0
+-------------
+
+- Added `lumache.py` to the repository.
+- Included new functionality in `lumache.py` to complement the existing capabilities of Sphinxus.
+- Added functions and classes in `lumache.py` for generating documentation in various formats (HTML, PDF, ePub).
+- Provided new themes and templates in `lumache.py` to customize the appearance of the generated documentation.
+- Offered advanced configuration options in `lumache.py` for fine-tuning the output, such as custom CSS and JavaScript files.
