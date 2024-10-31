@@ -1,10 +1,15 @@
 # sphinxus
+## Support
 
-## Project Description
+If you find this project helpful, consider buying me a coffee! Your support is greatly appreciated.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow)](https://paypal.me/barki0)
+
+### Project Description
 
 Sphinxus is a powerful documentation generator that helps you create beautiful and comprehensive documentation for your projects. It is built on top of Sphinx, a popular documentation generator for Python projects, and extends its capabilities with additional features and enhancements.
 
-### Features
+#### Features
 
 - Easy to use and configure
 - Supports multiple output formats (HTML, PDF, ePub, etc.)
