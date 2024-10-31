@@ -15,3 +15,6 @@ Welcome to the Sphinxus documentation! This documentation will help you understa
    getting_started
    faq
    changelog
+   api_reference
+   configuration
+   troubleshooting
