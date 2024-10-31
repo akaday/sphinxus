@@ -12,3 +12,9 @@ Welcome to the Sphinxus documentation! This documentation will help you understa
    usage
    contributing
    security
+   getting_started
+   faq
+   changelog
+   api_reference
+   configuration
+   troubleshooting
