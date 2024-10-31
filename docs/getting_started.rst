@@ -75,6 +75,21 @@ sphinx-build -b html sourcedir builddir
 
 This will generate the HTML documentation in the `builddir` directory. You can then open the generated HTML files in your web browser to view the documentation.
 
+Reinitializing Sphinx
+----------------------
+
+If you need to reinitialize Sphinx to set up the necessary files in the source directory, follow these steps:
+
+1. Delete the existing `docs` directory or move it to a backup location.
+2. Run the `sphinx-quickstart` command again to create a new documentation project:
+
+```bash
+sphinx-quickstart
+```
+
+3. Configure your `conf.py` file to use Sphinxus and any other extensions you need.
+4. Rebuild the documentation using the `sphinx-build` command.
+
 Next Steps
 ----------
 
