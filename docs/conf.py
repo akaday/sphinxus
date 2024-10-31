@@ -13,6 +13,7 @@ extensions = [
     'sphinxus',
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
+    'lumache',
 ]
 
 # -- Options for HTML output -------------------------------------------------
